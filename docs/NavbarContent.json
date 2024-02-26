@@ -1,0 +1,45 @@
+[
+    {
+      "label": "Home",
+      "type": "internal",
+  
+      "current": {
+        "pathname": "/"
+      },
+      "handleClick": {
+        "link": "/"
+      }
+    },
+    {
+      "label": "Registers",
+      "type": "external",
+      "current": {
+        "pathname": "/registers"
+      },
+      "handleClick": {
+        "link":  "https://openregisters.app/" 
+        }
+    },
+    {
+      "label": "Handleidingen",
+      "current": {
+        "pathname": "/docs"
+      },
+      "subItems": [
+        {
+          "label": "Functionaliteit",
+          "type": "internalMarkdown",
+          "current": {
+            "pathname": "/docs/features"
+          },
+          "handleClick": {
+            "internalMarkdown": {
+              "directoryName": "docs",
+              "fileName": "Features"
+            }
+          }
+        }
+      ]
+    }
+  ]
+  
