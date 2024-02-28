@@ -10,7 +10,12 @@ Waardepapierenregister
 
 ## 3 Indien een toepassing, welke componenten zijn hierin opgenomen?
 
-Gebaseerd op OpenRegisters, biedt Waardepapierenregister veilige dataopslag, federatie, virtuele registers, uitgebreide API ondersteuning, en multi-tenant mogelijkheden specifiek voor het beheer van waardepapieren.
+- FSC/NLX
+
+- Objectstore(MonggoDB)
+- Symfony
+- API Platform
+- Database(MySQL/PostgrSQL/MsSQL)
 
 ## 4 Indien het initiatief software betreft, is het parallel te gebruiken naast de bestaande software die het moet vervangen?
 
@@ -33,11 +38,37 @@ Waardepapierenregister faciliteert de naadloze integratie met bestaande systemen
 
 ## 8 Welke gemeenten zijn aangesloten bij de realisatie van dit initiatief?
 
-Rotterdam, Buren, Gouda, Barendrecht, Albrandswaard, Ridderkerk, Alkmaar, Hoeksche Waard, Sud-West Fryslan, Fryske Marren
+Rotterdam (Via OpenCatalogi)
+Gouda (Via OpenCatalogi)
+Noordwijk (Via OpenWoo.app)
+Tubbergen (Via OpenWoo.app)
+Epe (Via OpenWoo.app)
+Dinkelland (Via OpenWoo.app)
+Leiden (Via OpenCatalogi)
+Roermond (Via OpenWoo.app)
+Assen (Via OpenWoo.app)
+Hilversum (Via OpenWoo.app)
+Haarlemermeer (Via OpenWoo.app)
+Enschede (Via OpenWoo.app)
+Eindhoven (Via OpenWoo.app)
+Hardewijk (Via OpenWoo.app)
 
 ## 9 Welke gemeenten maken gebruik van dit initiatief?
 
-Rotterdam, Buren, Gouda, Barendrecht, Albrandswaard, Ridderkerk, Alkmaar, Hoeksche Waard, Sud-West Fryslan, Fryske Marren
+Noordwijk (Via OpenWoo.app)
+Tubbergen (Via OpenWoo.app)
+Epe(Via OpenWoo.app)
+Rotterdam (Via OpenCatalogi)
+Gouda (Via OpenWoo.app)
+Zutphen (Via OpenWoo.app)
+Roosendaal (Via OpenWoo.app)
+Alkmaar (Via OpenCatalogi)
+Barendrecht (Via Open Registers | Klanten)
+Albrandswaard (Via Open Registers | Klanten)
+Ridderkerk (Via Open Registers | Klanten)
+Hoeksche Waard (Via Open Registers | Klanten)
+Sud-West Fryslan (Via Open Registers | Klanten)
+Fryske Marren (Via Open Registers | Klanten)
 
 ## 10 Welke leveranciers zijn betrokken?
 
@@ -53,11 +84,11 @@ Conduction B.V, Yard, Acato, Sim Groep, Xxllnc
 
 ## 13 Welke organisatie wordt aangehouden als contact organisatie?
 
-Conduction B.V
-Yard
-Acato
-Sim Groep
-Xxllnc
+Conduction B.V (Via OpenWoo.app en  OpenCatalogi)
+Yard (Via OpenWoo.app)
+Acato (Via OpenWoo.app)
+Sim Groep (Via OpenWoo.app en  OpenCatalogi)
+Xxllnc (Via OpenWoo.app en Open Registers | Klanten)
 
 ## 14 Wie is de PO (product owner) van dit initiatief? (en dus contactpersoon)
 
@@ -112,6 +143,8 @@ laag 2: toegang tot data/ API's
 
 Haal Centraal
 API-standaarden voor ZGW-werken
+NL-API strategie
+NL-GOV profiel voor cloud events
 
 ## 27 In welke fase bevindt het initiatief zich?
 
