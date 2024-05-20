@@ -2,20 +2,15 @@
 
 ## 1 Wat is de naam van het initiatief dat je wilt aanmelden?
 
-Waardepapierenregister
+Waardepapieren Register
 
 ## 2 Wat voor type product is het initiatief?
 
-- Toepassing (bruikbare oplossing)
+- Component
 
 ## 3 Indien een toepassing, welke componenten zijn hierin opgenomen?
 
-- FSC/NLX
-
-- Objectstore(MonggoDB)
-- Symfony
-- API Platform
-- Database(MySQL/PostgrSQL/MsSQL)
+- Open Registers
 
 ## 4 Indien het initiatief software betreft, is het parallel te gebruiken naast de bestaande software die het moet vervangen?
 
@@ -38,41 +33,15 @@ Waardepapierenregister faciliteert de naadloze integratie met bestaande systemen
 
 ## 8 Welke gemeenten zijn aangesloten bij de realisatie van dit initiatief?
 
-Rotterdam (Via OpenCatalogi)
-Gouda (Via OpenCatalogi)
-Noordwijk (Via OpenWoo.app)
-Tubbergen (Via OpenWoo.app)
-Epe (Via OpenWoo.app)
-Dinkelland (Via OpenWoo.app)
-Leiden (Via OpenCatalogi)
-Roermond (Via OpenWoo.app)
-Assen (Via OpenWoo.app)
-Hilversum (Via OpenWoo.app)
-Haarlemermeer (Via OpenWoo.app)
-Enschede (Via OpenWoo.app)
-Eindhoven (Via OpenWoo.app)
-Hardewijk (Via OpenWoo.app)
+Buren 
 
 ## 9 Welke gemeenten maken gebruik van dit initiatief?
 
-Noordwijk (Via OpenWoo.app)
-Tubbergen (Via OpenWoo.app)
-Epe(Via OpenWoo.app)
-Rotterdam (Via OpenCatalogi)
-Gouda (Via OpenWoo.app)
-Zutphen (Via OpenWoo.app)
-Roosendaal (Via OpenWoo.app)
-Alkmaar (Via OpenCatalogi)
-Barendrecht (Via Open Registers | Klanten)
-Albrandswaard (Via Open Registers | Klanten)
-Ridderkerk (Via Open Registers | Klanten)
-Hoeksche Waard (Via Open Registers | Klanten)
-Sud-West Fryslan (Via Open Registers | Klanten)
-Fryske Marren (Via Open Registers | Klanten)
+Buren (Acceptatie)
 
 ## 10 Welke leveranciers zijn betrokken?
 
-Conduction B.V, Yard, Acato, Sim Groep, Xxllnc
+Conduction B.V
 
 ## 11 Wat is de startdatum van het initiatief
 
@@ -84,11 +53,7 @@ Conduction B.V, Yard, Acato, Sim Groep, Xxllnc
 
 ## 13 Welke organisatie wordt aangehouden als contact organisatie?
 
-Conduction B.V (Via OpenWoo.app en  OpenCatalogi)
-Yard (Via OpenWoo.app)
-Acato (Via OpenWoo.app)
-Sim Groep (Via OpenWoo.app en  OpenCatalogi)
-Xxllnc (Via OpenWoo.app en Open Registers | Klanten)
+Dimpact
 
 ## 14 Wie is de PO (product owner) van dit initiatief? (en dus contactpersoon)
 
@@ -152,6 +117,7 @@ NL-GOV profiel voor cloud events
 
 ## 28 Waar zijn jullie tegenaan gelopen? In zowel ontwikkeling en waar van toepassing bij de implementatie Noem de een tot drie grootste punten
 
-(Voer uw antwoord in)
+- Waardepapieren zijn te klein om als volledige applicatie bestaansrecht te hebben, daarom hebben we het omgezet naar microservice architectuur
+- Funding
 
 ## 29 Zijn er nog vragen naar aanleiding van dit intakeformulier?
