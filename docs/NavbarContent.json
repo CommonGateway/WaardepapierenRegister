@@ -40,6 +40,16 @@
           }
         }
       ]
+    },
+  {
+    "label": "Open Registers",
+    "type": "external",
+    "current": {
+      "pathname": "/registers"
+    },
+    "handleClick": {
+      "link":  "https://openregisters.app/"
     }
+  }
   ]
   
