@@ -17,6 +17,19 @@
       },
       "subItems": [
         {
+          "label": "Architectuur",
+          "type": "internalMarkdown",
+          "current": {
+            "pathname": "/docs/Architectuur"
+          },
+          "handleClick": {
+            "internalMarkdown": {
+              "directoryName": "docs",
+              "fileName": "Architectuur"
+            }
+          }
+        },
+        {
           "label": "Functionaliteit",
           "type": "internalMarkdown",
           "current": {
@@ -26,6 +39,32 @@
             "internalMarkdown": {
               "directoryName": "docs",
               "fileName": "Features"
+            }
+          }
+        },
+        {
+          "label": "Installatie",
+          "type": "internalMarkdown",
+          "current": {
+            "pathname": "/docs/Installatie"
+          },
+          "handleClick": {
+            "internalMarkdown": {
+              "directoryName": "docs",
+              "fileName": "Installatie"
+            }
+          }
+        },
+        {
+          "label": "Kosten",
+          "type": "internalMarkdown",
+          "current": {
+            "pathname": "/docs/Kosten"
+          },
+          "handleClick": {
+            "internalMarkdown": {
+              "directoryName": "docs",
+              "fileName": "Kosten"
             }
           }
         }
