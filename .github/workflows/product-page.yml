@@ -19,7 +19,7 @@ jobs:
         with:
           SLACK_URL: "https://github.com/openwebconcept"
           READ_THE_DOCS_URL: "false"
-          github_docs_directory_paths: '[{"name": "Handleidingen", "location": "/docs"}]'
+          github_docs_directory_paths: '[{"name": "docs", "location": "/docs"}]'
           github_repository_name_as_prefix: false
           github_repository_url: ${{ github.event.repository.url }}
           github_api_base_url: https://api.github.com/repos/${{ github.repository }}/contents
